@@ -1,2 +1,2 @@
 # AzureLearnings
-The repository contains some Ho-to lesson on Azure
+The repository contains some "How-to" lesson on Azure
